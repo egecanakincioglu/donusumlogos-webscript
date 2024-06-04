@@ -61,31 +61,25 @@ You should input the Clerk public key, Clerk secret key, and MongoDB URL into th
 ![image](https://github.com/egecanakincioglu/donusumlogos-webscript/assets/102412447/1cae30a5-e4ce-4fea-a4e0-4bcda9448a77)
 
 ### Register Screen
-![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247672422300385320/image.png)
+![image](https://github.com/egecanakincioglu/donusumlogos-webscript/assets/102412447/14423f5f-7031-4986-a2b2-8e9fe60376ab)
 
 ### Home Page
-![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247671113576874086/image.png)
-
-### Home Page 
-![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247671164533215303/image.png)
+![image](https://github.com/egecanakincioglu/donusumlogos-webscript/assets/102412447/cae1dca6-9af8-473e-b303-4ecc61c8bea0)
+![image](https://github.com/egecanakincioglu/donusumlogos-webscript/assets/102412447/e3efa53f-fa41-4a62-b8b2-fb655a514171)
 
 ### Create Event
-![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247671226801979402/image.png)
-
-### Create Event
-![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247671271290962003/image.png)
+![image](https://github.com/egecanakincioglu/donusumlogos-webscript/assets/102412447/46de907f-1acd-4833-a2b3-02257e4b8f96)
+![image](https://github.com/egecanakincioglu/donusumlogos-webscript/assets/102412447/66ea1783-26d9-4001-a021-0498bce94fd2)
 
 ### Profile
-![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247671325837754429/image.png)
-
-### Profile
-![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247671365247701153/image.png)
+![image](https://github.com/egecanakincioglu/donusumlogos-webscript/assets/102412447/b14f63b3-e539-4cb6-8d65-25efc6d7f068)
+![image](https://github.com/egecanakincioglu/donusumlogos-webscript/assets/102412447/e278f0ce-1c83-4364-88b2-e87fb25268ea)
 
 ### Account
-![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247672259863248978/image.png)
+![image](https://github.com/egecanakincioglu/donusumlogos-webscript/assets/102412447/cf06c27a-95ac-4c1f-8600-52da9944bc5a)
 
 ### Security
-![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247672319032164374/image.png)
+![image](https://github.com/egecanakincioglu/donusumlogos-webscript/assets/102412447/939cc951-41ff-4ee5-b389-8ad04669f435)
 
 ---
 
