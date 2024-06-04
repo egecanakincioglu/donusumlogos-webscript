@@ -58,7 +58,7 @@ You should input the Clerk public key, Clerk secret key, and MongoDB URL into th
 
 
 ### Login Screen
-![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247672377458823248/image.png)
+![image](https://github.com/egecanakincioglu/donusumlogos-webscript/assets/102412447/1cae30a5-e4ce-4fea-a4e0-4bcda9448a77)
 
 ### Register Screen
 ![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247672422300385320/image.png)
