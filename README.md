@@ -54,6 +54,39 @@ You should input the Clerk public key, Clerk secret key, and MongoDB URL into th
 
 6. Once you've completed all the steps, you can run the project by typing `npm run dev` in the console.
 
+## Website Screenshots
+
+
+### Login Screen
+![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247672377458823248/image.png)
+
+### Register Screen
+![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247672422300385320/image.png)
+
+### Home Page
+![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247671113576874086/image.png)
+
+### Home Page 
+![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247671164533215303/image.png)
+
+### Create Event
+![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247671226801979402/image.png)
+
+### Create Event
+![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247671271290962003/image.png)
+
+### Profile
+![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247671325837754429/image.png)
+
+### Profile
+![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247671365247701153/image.png)
+
+### Account
+![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247672259863248978/image.png)
+
+### Security
+![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1245864924572287057/1247672319032164374/image.png)
+
 ---
 
 If you have any questions, issues, or if there's any aspect you don't understand regarding the project, feel free to reach out to us. Friendly individuals who identify errors can either rectify them and contact us or wait for us to publish a new version. Most of the sites we deploy are designed for promotional purposes and are intended to function flawlessly. However, we would be delighted to assist you if you encounter any issues.
